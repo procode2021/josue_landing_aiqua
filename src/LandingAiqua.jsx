@@ -491,6 +491,92 @@ export default function LandingAiqua() {
                 </div>
             </section>
 
+            {/* ¿Por qué elegir AIQUA Pool? */}
+            <section className="py-20 px-6 bg-white">
+                <div className="container" data-aos="fade-up">
+                    <h2 className="text-3xl font-bold mb-12 text-[#00AEEF] text-center">¿Por qué elegir AIQUA Pool?</h2>
+                    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                        {/* Punto 1 */}
+                        <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all border-l-4 border-[#7AC943]">
+                            <div className="flex items-start">
+                                <div className="w-12 h-12 bg-[#7AC943]/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/3094/3094837.png" alt="normativas" className="w-6 h-6" />
+                                </div>
+                                <div>
+                                    <h3 className="text-lg font-bold mb-2 text-[#29ABE2]">Cumples con las normativas y garantizas agua segura</h3>
+                                    <p className="text-gray-600">Mantén siempre los parámetros dentro de los rangos establecidos por las autoridades sanitarias.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Punto 2 */}
+                        <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all border-l-4 border-[#7AC943]">
+                            <div className="flex items-start">
+                                <div className="w-12 h-12 bg-[#7AC943]/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="ahorro" className="w-6 h-6" />
+                                </div>
+                                <div>
+                                    <h3 className="text-lg font-bold mb-2 text-[#29ABE2]">Ahorras tiempo, dinero y evitas errores en la dosificación</h3>
+                                    <p className="text-gray-600">Optimiza el uso de productos químicos con sugerencias precisas y automatizadas.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Punto 3 */}
+                        <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all border-l-4 border-[#7AC943]">
+                            <div className="flex items-start">
+                                <div className="w-12 h-12 bg-[#7AC943]/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" alt="datos" className="w-6 h-6" />
+                                </div>
+                                <div>
+                                    <h3 className="text-lg font-bold mb-2 text-[#29ABE2]">Tomas decisiones respaldadas por datos</h3>
+                                    <p className="text-gray-600">Accede a información histórica y tendencias para tomar las mejores decisiones operativas.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Punto 4 */}
+                        <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all border-l-4 border-[#7AC943]">
+                            <div className="flex items-start">
+                                <div className="w-12 h-12 bg-[#7AC943]/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" alt="digital" className="w-6 h-6" />
+                                </div>
+                                <div>
+                                    <h3 className="text-lg font-bold mb-2 text-[#29ABE2]">Digitalizamos tu operación y dile adiós al papel</h3>
+                                    <p className="text-gray-600">Toda la información centralizada en la nube, accesible desde cualquier dispositivo.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Punto 5 */}
+                        <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all border-l-4 border-[#7AC943]">
+                            <div className="flex items-start">
+                                <div className="w-12 h-12 bg-[#7AC943]/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/3094/3094830.png" alt="escalable" className="w-6 h-6" />
+                                </div>
+                                <div>
+                                    <h3 className="text-lg font-bold mb-2 text-[#29ABE2]">Escalable y flexible, ya sea para una o múltiples piscinas</h3>
+                                    <p className="text-gray-600">Crece con tu negocio, desde una piscina residencial hasta complejos con múltiples ubicaciones.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Punto 6 */}
+                        <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all border-l-4 border-[#7AC943]">
+                            <div className="flex items-start">
+                                <div className="w-12 h-12 bg-[#7AC943]/10 rounded-full flex items-center justify-center mr-4 flex-shrink-0">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" alt="historial" className="w-6 h-6" />
+                                </div>
+                                <div>
+                                    <h3 className="text-lg font-bold mb-2 text-[#29ABE2]">Historial completo y trazabilidad total</h3>
+                                    <p className="text-gray-600">Registra y consulta todo el historial operativo para auditorías y análisis de tendencias.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             {/* ¿Dónde aplicar? */}
             <section className="py-20 px-6 bg-[white]">
                 <div className="container text-center" data-aos="fade-up">
